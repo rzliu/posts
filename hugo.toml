@@ -1,0 +1,10 @@
+baseURL = 'https://post.rzliu.com/'
+locale = 'en-us'
+title = 'Daily Post from Richard'
+theme = "github.com/theNewDynamic/gohugo-theme-ananke/v2"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+
