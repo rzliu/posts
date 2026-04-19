@@ -27,6 +27,19 @@ Once you are satisfied with your changes:
 * Generate Static Files: Run the bare hugo command to build the final production-ready HTML files into the public/ directory.
 * Deploy: Upload the contents of the public/ folder to your web host or push changes to a repository linked with a CI/CD tool like GitHub Actions. [1, 9, 11, 12, 14, 15] 
 
+## 4. Deploy to Github
+repository: [https://github.com/rzliu/posts](https://github.com/rzliu/posts)
+
+```
+git add .
+git commit -m "add/update content"
+git push origin HEAD:posts
+```
+
+Github will re-build and update to Pages at:
+[https://rzliu.github.io/posts/](https://rzliu.github.io/posts/)
+
+
 Would you like to know how to customize the default template used when you create new posts?
 
 - [1] [https://gohugo.io](https://gohugo.io/getting-started/quick-start/)
