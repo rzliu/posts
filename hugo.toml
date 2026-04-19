@@ -1,3 +1,4 @@
+canonifyURLs = true
 baseURL = 'https://post.rzliu.com/'
 locale = 'en-us'
 title = 'Daily Post from Richard'

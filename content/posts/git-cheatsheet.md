@@ -4,7 +4,8 @@ draft = false
 title = 'Git Cheatsheet'
 +++
 ## git-cheatsheet
-[git-cheatsheet](/uploads/git-cheatsheet.pdf)
+
+[Git Cheatsheet PDF]({{< absURL "/uploads/git-cheatsheet.pdf" >}})
 
 ```
 Git Cheat Sheet
