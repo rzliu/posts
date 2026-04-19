@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Daily Post from Richard</title>
-    <link>http://localhost:1313/</link>
+    <link>https://post.rzliu.com/</link>
     <description>Recent content on Daily Post from Richard</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Apr 2026 12:22:51 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Apr 2026 13:39:11 -0400</lastBuildDate>
+    <atom:link href="https://post.rzliu.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Update Content</title>
+      <link>https://post.rzliu.com/posts/update-content/</link>
+      <pubDate>Sun, 19 Apr 2026 13:39:11 -0400</pubDate>
+      <guid>https://post.rzliu.com/posts/update-content/</guid>
+      <description>&lt;p&gt;The general method for adding or updating content in Hugo revolves around its CLI and local development server, typically using Markdown files organized within a content/ directory. [1, 2, 3, 4, 5]&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-adding-new-content&#34;&gt;1. Adding New Content&lt;/h2&gt;&#xA;&lt;p&gt;To add a new page or post, use the hugo new command from your project&amp;rsquo;s root directory. This command automatically populates the file with &amp;ldquo;front matter&amp;rdquo; (metadata) based on your site&amp;rsquo;s archetypes. [3, 6]&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://post.rzliu.com/posts/my-first-post/</link>
       <pubDate>Wed, 15 Apr 2026 12:22:51 -0400</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://post.rzliu.com/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
   </channel>
