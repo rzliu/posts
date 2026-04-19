@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://rzliu.github.io/posts/</loc>
     <lastmod>2026-04-19T14:32:29-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/git-cheatsheet/</loc>
+    <loc>https://rzliu.github.io/posts/posts/git-cheatsheet/</loc>
     <lastmod>2026-04-19T14:32:29-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://rzliu.github.io/posts/posts/</loc>
     <lastmod>2026-04-19T14:32:29-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/update-content/</loc>
+    <loc>https://rzliu.github.io/posts/posts/update-content/</loc>
     <lastmod>2026-04-19T13:39:11-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
+    <loc>https://rzliu.github.io/posts/posts/my-first-post/</loc>
     <lastmod>2026-04-15T12:22:51-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://rzliu.github.io/posts/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://rzliu.github.io/posts/tags/</loc>
   </url>
 </urlset>
